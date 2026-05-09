@@ -1,0 +1,1 @@
+__all__ = ["Equilateral", "Isosceles", "Rectangle", "Scalene", "Square", "Triangle", "Trirectangle"]
